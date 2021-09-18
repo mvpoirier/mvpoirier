@@ -1,4 +1,4 @@
-### Welcome to my GitHub Code Respository! 🤖
+## Welcome to my GitHub Code Respository! 🤖
 
 - 🏫 I’m currently the **Head of Science** at **[ABA Oman International School](http://www.abaoman.org)**
 - 🔭 Right now, I'm focused on **student engagement in physics and coding**!
