@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently the **Head of Science** at **[ABA Oman International School](www.abaoman.org)**
+- 🔭 I’m currently the **Head of Science** at **[ABA Oman International School](http://www.abaoman.org)**
 - 🌱 Right now I'm focused on how to get students more engaged in coding!
 - 👯 I’m looking to collaborate on **DP Computer Science** resources and teaching strategies
 <!--
