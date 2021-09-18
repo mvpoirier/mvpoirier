@@ -5,7 +5,7 @@
 ## Skills ⚙️
 - 🐍 Python
 - ☕ Java, JavaScript
-- 🤖 Robotics (FIRST FTC, Mindstorm)
+- 🤖 Robotics
 - 👁️ HTML, CSS, Markdown
 
 ## Contact 📫
@@ -24,6 +24,5 @@
 - ⚙️🪐 Jypter
 - 👁️ SASS, CSS, Stylus
 - 💽 MySQL, SQL, Mongo
-
 - 📫 How to reach me: **[Twitter](https://twitter.com/mvpoirier)**, **[LinkedIn](https://www.linkedin.com/in/mvpoirier8/)**, **[Replit](https://replit.com/@mpoirier)**, and my **[Blog](https://mvpoirier.github.io/)**
 -->
