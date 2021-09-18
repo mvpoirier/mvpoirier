@@ -3,7 +3,7 @@ I’m Mike, currently the **Head of Science** at **[ABA Oman International Schoo
 
 ## Skills ⚙️
 - 🐍 Python
-- ☕ Java, JavaScript
+- ☕ Java & JavaScript
 - 🤖 Robotics
 - 👁️ HTML, CSS, Markdown
 
