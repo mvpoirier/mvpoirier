@@ -1,6 +1,5 @@
 ## Hey there! 👋
-- 🍎 I’m Mike, currently the **Head of Science** at **[ABA Oman International School](http://www.abaoman.org)** in Muscat, Oman 🇴🇲
-- 🔭 Focused on **student engagement in DP physics and coding**!
+I’m Mike, currently the **Head of Science** at **[ABA Oman International School](http://www.abaoman.org)** in Muscat, Oman 🇴🇲
 
 ## Skills ⚙️
 - 🐍 Python
@@ -17,6 +16,7 @@
 <!--
 <img src="https://user-images.githubusercontent.com/1549257/133894864-bc8fba9f-deb9-4f64-a648-00cd523dee03.gif" width="100" height="100">  
 ![doge](https://user-images.githubusercontent.com/1549257/133894864-bc8fba9f-deb9-4f64-a648-00cd523dee03.gif)
+- 🔭 Focused on **student engagement in DP physics and coding**!
 - 👯 I’d like to collaborate on **DP Computer Science** resources and teaching strategies
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
