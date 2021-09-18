@@ -1,4 +1,4 @@
-**Hey there!** 👋
+## Hey there! 👋
 I’m Mike, currently the **Head of Science** at **[ABA Oman International School](http://www.abaoman.org)** in Muscat, Oman 🇴🇲
 
 ## Skills ⚙️
