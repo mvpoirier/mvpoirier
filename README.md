@@ -1,4 +1,4 @@
-### Hello 👋 and Welcome to my GitHub Code Respository 🤖
+### Welcome to my GitHub Code Respository! 🤖
 <img src="https://user-images.githubusercontent.com/1549257/133894864-bc8fba9f-deb9-4f64-a648-00cd523dee03.gif" width="100" height="100">  
 
 - 🏫 I’m currently the **Head of Science** at **[ABA Oman International School](http://www.abaoman.org)**
