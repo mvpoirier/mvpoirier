@@ -11,7 +11,7 @@ I’m Mike, currently the **Head of Science** at **[ABA Oman International Schoo
 - 🦆 [@mvpoirier](https://twitter.com/mvpoirier) on Twitter
 - 🔗 [@mvpoirier8](https://www.linkedin.com/in/mvpoirier8) on LinkedIn
 - 💾 [@mpoirier](https://replit.com/@mpoirier) on Replit
-- 🌐 [mvpoirier.github.io](https://mvpoirier.github.io/)
+- 🌐 Visit my personal blog and website at [mvpoirier.github.io](https://mvpoirier.github.io/)
 
 <!--
 <img src="https://user-images.githubusercontent.com/1549257/133894864-bc8fba9f-deb9-4f64-a648-00cd523dee03.gif" width="100" height="100">  
