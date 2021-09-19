@@ -1,11 +1,11 @@
 ## Hey there! 👋
 I’m Mike, currently the **Head of Science** at **[ABA Oman International School](http://www.abaoman.org)** in **Muscat, Oman** 🇴🇲
 
-## Skills ⚙️
+## Coding-Related Skills & Interests ⚙️
 - 🐍 Python
-- ☕ Java & JavaScript
+- ☕ Java and JavaScript
 - 🤖 Robotics
-- 👁️ HTML, CSS, Markdown
+- 👁️ HTML, CSS, and Markdown
 
 ## Contact 📫
 - 🦆 [@mvpoirier](https://twitter.com/mvpoirier) on Twitter
