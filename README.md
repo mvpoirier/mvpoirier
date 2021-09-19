@@ -3,7 +3,7 @@ I’m Mike, currently the **Head of Science** at **[ABA Oman International Schoo
 
 ## Coding Skills & Interests ⚙️
 - 🐍 Python
-- ☕ Java, JavaScript, and [p5.js](https://p5js.org/)
+- ☕ Java and JavaScript ([p5.js](https://p5js.org/))
 - 👁️ HTML, CSS, and Markdown
 - 🛰 Computational Physics and Astronomy
 - 🤖 Robotics
