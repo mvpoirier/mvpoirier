@@ -2,6 +2,7 @@
 I’m Mike, currently the **Head of Science** at **[ABA Oman International School](http://www.abaoman.org)** in **Muscat, Oman** 🇴🇲
 
 ## Skills & Interests ⚙️
+- 🛰 Computational Physics
 - 🐍 Python
 - ☕ Java, JavaScript, and [p5.js](https://p5js.org/)
 - 🤖 Robotics
