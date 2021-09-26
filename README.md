@@ -1,3 +1,5 @@
+<link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
+
 ## Hey there! 👋
 I’m Mike, currently the **Head of Science** at **[ABA Oman International School](http://www.abaoman.org)** in **Muscat, Oman** 🇴🇲
 
@@ -9,8 +11,8 @@ I’m Mike, currently the **Head of Science** at **[ABA Oman International Schoo
 - 🤖 Robotics
 
 ## Contact 📫
-- 🦆 [@mvpoirier](https://twitter.com/mvpoirier) on Twitter
-- 🔗 [@mvpoirier8](https://www.linkedin.com/in/mvpoirier8) on LinkedIn
+- <i class="ri-twitter-fill"></i> 🦆 [@mvpoirier](https://twitter.com/mvpoirier) on Twitter
+- <i class="ri-linkedin-box-line"></i> 🔗 [@mvpoirier8](https://www.linkedin.com/in/mvpoirier8) on LinkedIn
 - 💾 [@mpoirier](https://replit.com/@mpoirier) on Replit
 - 🌐 Visit my website at [mvpoirier.github.io](https://mvpoirier.github.io/)
 
