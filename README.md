@@ -1,5 +1,5 @@
 ## Hey there! 👋
-I’m Mike, currently the **Head of Science** at **[ABA Oman International School](http://www.abaoman.org)** in **Muscat, Oman** 🇴🇲
+I’m Mike, and I enjoy working on things related to international education, physics, STEM, and coding.
 
 ## Coding Skills & Interests ⚙️  
 🐍 Python  
