@@ -1,5 +1,5 @@
 ## Hey there! 👋
-I’m Mike, and I enjoy working on things related to international education, physics, STEM, and coding.
+I’m Mike, and I enjoy working on things related to international education, physics, astronomy, STEM, and robotics.
 
 ## Coding Skills & Interests ⚙️  
 🐍 Python  
