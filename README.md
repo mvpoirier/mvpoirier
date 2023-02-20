@@ -10,10 +10,11 @@ I’m Mike, and I enjoy working on things related to education, physics, STEM, a
 ...and $\LaTeX$
 
 ## Contact 📫  
+You can visit my website at **[mvpoirier.github.io](https://mvpoirier.github.io/)**, or get in contact with me at:  
 [@mvpoirier](https://twitter.com/mvpoirier) on **Twitter**  
 [@mvpoirier8](https://www.linkedin.com/in/mvpoirier8) on **LinkedIn**  
 [@mpoirier](https://replit.com/@mpoirier) on **Replit**  
-Visit my website at **[mvpoirier.github.io](https://mvpoirier.github.io/)**  
+
 
 <!--
 ![twitter-fill](https://user-images.githubusercontent.com/1549257/134811442-edc9d4ae-c10e-420d-8324-b64e92946df2.png) 
