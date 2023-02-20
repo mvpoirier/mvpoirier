@@ -7,6 +7,7 @@ I’m Mike, and I enjoy working on things related to education, physics, STEM, a
 👁️ HTML, CSS, and Markdown  
 🛰 Computational Physics and Astronomy  
 🤖 Robotics  
+...and $\LaTeX$
 
 ## Contact 📫  
 [@mvpoirier](https://twitter.com/mvpoirier) on **Twitter**  
