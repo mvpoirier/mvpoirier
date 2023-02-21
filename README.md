@@ -7,7 +7,7 @@ I’m Mike, and I enjoy working on things related to education, physics, STEM, a
 🛰 Computational Physics and Astronomy  
 🤖 Robotics, Hardware, and Design  
 👁️ HTML, CSS, Markdown, and $\LaTeX$  
-🕹️ Gamification of Learning and Indie Video Game Design  
+🕹️ Gamification of Learning and Game Design  
 
 ## Contact 📫  
 You can visit my website at **[mvpoirier.github.io](https://mvpoirier.github.io/)** or get in contact with me at:  
