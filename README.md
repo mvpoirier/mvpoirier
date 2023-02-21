@@ -1,7 +1,7 @@
 ## Hey there! 👋
 I’m Mike, and I enjoy working on things related to education, physics, STEM, and robotics.
 
-## Coding Interests 🧮
+## Geeky Interests 🧮
 🐍 Python  
 ☕ Java and JavaScript ([p5.js](https://p5js.org/))  
 🛰 Computational Physics and Astronomy  
