@@ -1,13 +1,12 @@
 ## Hey there! 👋
 I’m Mike, and I enjoy working on things related to education, physics, STEM, and robotics.
 
-## Interests
+## Coding Interests 🧮
 🐍 Python  
 ☕ Java and JavaScript ([p5.js](https://p5js.org/))  
-👁️ HTML, CSS, and Markdown  
 🛰 Computational Physics and Astronomy  
-🤖 Robotics  
-...and displaying mathematical results using $\LaTeX$
+🤖 Robotics, Hardware Interfaces, and Design
+👁️ HTML, CSS, Markdown, and $\LaTeX$
 
 ## Contact 📫  
 You can visit my website at **[mvpoirier.github.io](https://mvpoirier.github.io/)** or get in contact with me at:  
