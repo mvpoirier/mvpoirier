@@ -1,5 +1,5 @@
 ## Hey there! 👋
-I’m Mike, and I enjoy working on things related to education, physics, STEM, and robotics.
+I’m Mike, and I enjoy working on things related to education, physics, robotics, and STEM.
 
 ## Geeky Interests 🤓
 🐍 Python  
@@ -7,6 +7,7 @@ I’m Mike, and I enjoy working on things related to education, physics, STEM, a
 🛰 Computational Physics and Astronomy  
 🤖 Robotics, Hardware, and Design  
 👁️ HTML, CSS, Markdown, and $\LaTeX$   
+🕹️ Indie Gaming  
 
 ## Contact 📫  
 You can visit my website at **[mvpoirier.github.io](https://mvpoirier.github.io/)** or get in contact with me at:  
