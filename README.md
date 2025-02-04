@@ -7,7 +7,7 @@ I’m Mike, and I enjoy working on things related to education, physics, robotic
 🛰 Computational Physics and Astronomy  
 🤖 Robotics, Hardware, and Design  
 👁️ HTML, CSS, Markdown, and $\LaTeX$   
-🕹️ Indie Gaming Development
+🕹️ Game Development
 
 ## Contact 📫  
 - Website at [mvpoirier.github.io](https://mvpoirier.github.io/)
