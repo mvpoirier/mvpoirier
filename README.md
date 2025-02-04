@@ -10,5 +10,5 @@ I’m Mike, and I enjoy working on things related to education, physics, robotic
 🕹️ Indie Gaming Development
 
 ## Contact 📫  
-- Website and Blog @ **[mvpoirier.github.io](https://mvpoirier.github.io/)**
-- Socials on my **[Linktree](https://linktr.ee/mvpoirier)**
+- Website at [mvpoirier.github.io](https://mvpoirier.github.io/)
+- Socials on [Linktree](https://linktr.ee/mvpoirier)
