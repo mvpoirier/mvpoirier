@@ -5,10 +5,10 @@ I’m Mike, and I enjoy working on things related to education, physics, robotic
 🐍 Python  
 ☕ Java and JavaScript ([p5.js](https://p5js.org/))  
 🛰 Computational Physics and Astronomy  
-🤖 Robotics, Hardware, and Design
-🧠 AI-assisted Coding
+🤖 Robotics, Hardware, and Design  
+🧠 AI-assisted Coding  
 👁️ HTML, CSS, Markdown, and $\LaTeX$   
-🕹️ Game Development
+🕹️ Game Development  
 
 ## Contact 📫  
 - Website at [mvpoirier.github.io](https://mvpoirier.github.io/)
