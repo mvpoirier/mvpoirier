@@ -6,7 +6,7 @@ I’m Mike, and I enjoy working on things related to education, physics, robotic
 ☕ Java and JavaScript ([p5.js](https://p5js.org/))  
 🛰 Computational Physics and Astronomy  
 🤖 Robotics, Hardware, and Design  
-🧠 Generative AI and AI-assisted coding  
+🧠 Generative AI  
 👁️ HTML, CSS, Markdown, and $\LaTeX$   
 🕹️ Game Development  
 
