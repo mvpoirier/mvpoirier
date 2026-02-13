@@ -10,8 +10,8 @@ I’m Mike, and I enjoy working on things related to education, physics and codi
 🧠 Generative AI & "Vibe" Coding  
 🕹️ Game Development & Indie Games  
 
-## Interactives
-- [DP Physics & Science Simulations](https://github.com/mvpoirier/Javascript/tree/master/CanvaAI) created using AI-assisted tools
+## Notable Projects
+- [DP Physics & Science Simulations](https://github.com/mvpoirier/Javascript/tree/master/CanvaAI)
 
 ## Contact 📫  
 - Website at [mvpoirier.github.io](https://mvpoirier.github.io/)
