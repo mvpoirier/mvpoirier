@@ -1,14 +1,17 @@
 ## Hey there! 👋
-I’m Mike, and I enjoy working on things related to education, physics and coding.
+I’m Mike, and I enjoy working on things related to education, physics, coding, and AI.
 
 ## Geeky Interests 🤓
+🍎 Science Education & STEAM
+🛰 Physics and Astronomy 
+🤖 Robotics, Hardware, and Design
+🕹️ Game Development & Indie Games  
+
+## Programming Languages & Development
 🐍 Python  
 ☕ Java and JavaScript with [p5.js](https://p5js.org/)  
-🛰 Physics and Astronomy  
-🤖 Robotics, Hardware, and Design  
 👁️ HTML, CSS, Markdown, and $\LaTeX$   
-🧠 Generative AI & "Vibe" Coding  
-🕹️ Game Development & Indie Games  
+🧠 Generative AI & AI-assisted Coding  
 
 ## Notable Projects ⭐️
 - [MVPhysics Revision Lab 🏆](https://mvpoirier.github.io/revision-lab/)
