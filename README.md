@@ -3,9 +3,9 @@ I’m Mike, and I enjoy working on things related to education, physics, coding,
 
 ## Geeky Interests 🤓
 🍎 Science Education & STEAM  
-🛰 Physics and Astronomy 
-🤖 Robotics, Hardware, and Design 
-🕹️ Game Development & Indie Games   
+🛰 Physics and Astronomy  
+🤖 Robotics, Hardware, and Design  
+🕹️ Game Development & Indie Games  
 
 ## Programming Languages & Development
 🐍 Python  
