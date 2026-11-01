@@ -1,5 +1,5 @@
 ## Hey there! 👋
-I’m Mike, and I enjoy working on things related to education, physics, coding, and AI.
+I’m Mike, and I enjoy working on things related to education, physics, and coding.
 
 ## Geeky Interests 🤓
 🍎 Science Education & STEAM  
