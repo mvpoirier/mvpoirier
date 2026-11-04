@@ -2,7 +2,7 @@
 I’m Mike, and I enjoy working on things related to education, physics, and coding.
 
 ## Current Projects 🚀
-- [MVPhysics Lab](https://mvpoirier.github.io/mvphysics/) 🏆
+- [MVPhysics Lab 🏆](https://mvpoirier.github.io/mvphysics/)
 
 ## Geeky Interests 🤓
 🍎 Science Education & STEAM  
