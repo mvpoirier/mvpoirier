@@ -1,9 +1,8 @@
 ## Hey there! 👋
 I’m Mike, and I enjoy working on things related to education, physics, and coding.
 
-## Notable Projects ⭐️
-- [MVPhysics Revision Lab 🏆](https://mvpoirier.github.io/revision-lab/)
-- [DP Physics & Science Simulations](https://github.com/mvpoirier/Javascript/tree/master/CanvaAI)
+## Current Projects 🚀
+- [MVPhysics Lab 🏆](https://mvpoirier.github.io/mvphysics/)
 
 ## Geeky Interests 🤓
 🍎 Science Education & STEAM  
@@ -17,6 +16,6 @@ I’m Mike, and I enjoy working on things related to education, physics, and cod
 👁️ HTML, CSS, Markdown, and $\LaTeX$   
 🧠 Generative AI & AI-assisted Coding  
 
-## Contact 📫  
+## Contact Me 📫  
 - Website at [mvpoirier.github.io](https://mvpoirier.github.io/)
 - Socials on [Linktree](https://linktr.ee/mvpoirier)
