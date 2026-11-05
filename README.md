@@ -1,13 +1,8 @@
 ## Hey there! 👋
 I’m Mike, and I enjoy working on things related to education, physics, and coding.
 
-## Current Projects 🚀
-- [**MVP**hysics Lab 🏆](https://mvpoirier.github.io/physics-lab/)
-- **MYP**oirier Science Lab ⚛️ (coming soon...)
-- [DP Physics & Science Simulations](https://github.com/mvpoirier/Javascript/tree/master/CanvaAI)
-
 ## Geeky Interests 🤓
-🍎 Science Education & STEAM  
+🍎 Teaching and Education
 🛰 Physics and Astronomy  
 🤖 Robotics, Hardware, and Design  
 🕹️ Game Development & Indie Games  
