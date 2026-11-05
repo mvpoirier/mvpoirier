@@ -2,8 +2,8 @@
 I’m Mike, and I enjoy working on things related to education, physics, and coding.
 
 ## Current Projects 🚀
-- [MVPhysics Lab 🏆](https://mvpoirier.github.io/mvphysics/)
-  - DP Physics revision platform
+- [**MVP**hysics Lab 🏆](https://mvpoirier.github.io/physics-lab/)
+- **MYP**oirier Science Lab (coming soon...)
 
 ## Geeky Interests 🤓
 🍎 Science Education & STEAM  
